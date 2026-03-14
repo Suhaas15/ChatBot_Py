@@ -1,4 +1,4 @@
-Jordan Home Chatbot
+Jordan - Home Chatbot
 ===================
 
 Jordan is a mischievous little doorman made with the vintage ChatterBot library. It interviews every visitor, rolls its digital eyes at strangers, and unlocks a stash of hyper-personal trivia when Mark finally steps inside. Think of it as a text-only smart home concierge that lives entirely in your terminal.
